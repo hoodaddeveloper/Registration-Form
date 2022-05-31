@@ -1,2 +1,2 @@
 # Registration-Form
-Learning HTML Forms by Building a Registration Form in freeCodeCamp.org
+Learning HTML Forms by building a Registration Form in freeCodeCamp.org
