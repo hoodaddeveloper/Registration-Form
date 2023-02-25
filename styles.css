@@ -8,7 +8,8 @@ body {
   background-color: #1b1b32;
 }
 
-h1, p {
+h1,
+p {
   margin: 1em auto;
   text-align: center;
 }
@@ -43,7 +44,8 @@ select {
   margin: 10px 0 0 0;
 }
 
-input, textarea {
+input,
+textarea {
   color: #ffffff;
   background-color: #0a0a23;
   border: 1px solid #0a0a23;
